@@ -1,0 +1,6 @@
+This is a text document
+
+
+It will be stored in GIT.
+
+
